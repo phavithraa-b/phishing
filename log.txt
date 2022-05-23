@@ -1,9 +1,0 @@
-anchor=
-logintoken=ttOCCAuKuJSFSZBnYbymKOsj3fJyK3WE
-username=username
-password=password
-
-
-
-
-
